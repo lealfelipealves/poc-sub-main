@@ -1,0 +1,6 @@
+[submodule "poc-sub-header"]
+	path = poc-sub-header
+	url = git@github.com:lealfelipealves/poc-sub-header.git
+[submodule "poc-sub-cart"]
+	path = poc-sub-cart
+	url = git@github.com:lealfelipealves/poc-sub-cart.git
